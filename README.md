@@ -27,7 +27,7 @@ Use this guide to prepare for your sessions so that you can follow along.
 Nerd Days is a full-day conference with five tracks:
 
 - [Fundamentals](fundamentals-track/README.md)
-- [Observability](observability-track/README.md)
+- [Observability and Open Source](observability-and-open-source-track/README.md)
 - [Open-Source Practices](open-source-track/README.md)
 
 Each session may have individual prerequisites that you can find using the links in the schedule below.
