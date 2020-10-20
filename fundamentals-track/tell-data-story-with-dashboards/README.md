@@ -1,14 +1,14 @@
-# Alert Best Practices
+# Exploring Your Data with NRQL
 
-Learn everything you need to know about setting up effective alert policies.
+Learn how to query your data with NRQL and build dashboards.
 
 ## Key Takeaways
 
-In this session, you'll learn about:
+In this section, you'll become familiar with:
 
-- Effective alerting strategies
-- Creating meaningful alert policies and conditions
-- Using NRQL alerts
+- The data explorer
+- The chart builder
+- Querying with NRQL, including aggregating, grouping, and conditional selects
 
 ## Prerequisites
 

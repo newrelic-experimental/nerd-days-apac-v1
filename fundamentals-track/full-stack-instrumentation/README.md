@@ -1,14 +1,6 @@
-# Alert Best Practices
+# Full Stack Instrumentation
 
-Learn everything you need to know about setting up effective alert policies.
-
-## Key Takeaways
-
-In this session, you'll learn about:
-
-- Effective alerting strategies
-- Creating meaningful alert policies and conditions
-- Using NRQL alerts
+Learn how quick and easy it is to use custom attributes and page action events to gather business metrics from your application and build visualizations around that data.
 
 ## Prerequisites
 

@@ -2,7 +2,7 @@
 
 [![Example Code header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Example_Code.png)](https://opensource.newrelic.com/oss-category/#example-code)
 
-# Nerd Days V1 Guide
+# Nerd Days APAC V1 Guide
 
 __What is Nerd Days?__
 
@@ -13,7 +13,7 @@ A __*FREE*__, developer-focused, digital conference that covers a range of topic
 - Customer examples
 - Panel / Q&A
 
-This repo provides everything you need for Nerd Days 1.0, including a catalog of prerequisites and resources for all sessions presented at Nerd Days AMER.
+This repo provides everything you need for Nerd Days 1.0, including a catalog of prerequisites and resources for all sessions presented at Nerd Days APAC.
 
 Use this guide to prepare for your sessions so that you can follow along.
 
@@ -27,14 +27,12 @@ Use this guide to prepare for your sessions so that you can follow along.
 Nerd Days is a full-day conference with five tracks:
 
 - [Fundamentals](fundamentals-track/README.md)
-- [Observability](observability-track/README.md)
-- [Cloud Migration](cloud-migration-track/README.md)
-- [DevOps Journey](devops-track/README.md)
-- [Open-Source Practices](open-source-track/README.md)
+- [Observability and Open Source](observability-and-open-source-track/README.md)
+- [Cloud and DevOps](cloud-and-devops-track/README.md)
 
 Each session may have individual prerequisites that you can find using the links in the schedule below.
 
-> **IMPORTANT! All Nerd Days sessions require a New Relic account.** If you don't already have one, [sign up](https://newrelic.com/signup) for our [free tier](#free-tier-overview).
+> **IMPORTANT! All Nerd Days sessions require a New Relic account.** If you don't already have one, [sign up](https://rb.gy/c2z7ct) for our [free tier](#free-tier-overview).
 
 ## Free Tier Overview
 
