@@ -2,7 +2,7 @@
 
 [![Example Code header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Example_Code.png)](https://opensource.newrelic.com/oss-category/#example-code)
 
-# Nerd Days V1 Guide
+# Nerd Days APAC V1 Guide
 
 __What is Nerd Days?__
 
