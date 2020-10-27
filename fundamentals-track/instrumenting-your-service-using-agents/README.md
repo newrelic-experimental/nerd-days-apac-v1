@@ -16,3 +16,7 @@ In this session, you'll set up:
 1. [A New Relic account](https://rb.gy/c2z7ct)
 2. [A Glitch account](https://glitch.com/signup)
 3. [Your New Relic License key](https://docs.newrelic.com/docs/accounts/accounts-billing/account-setup/new-relic-license-key)
+
+## Session Content
+
+1. Slides - [PDF](../../pdf/InstrumentingYourServiceWithAgents.pdf)
